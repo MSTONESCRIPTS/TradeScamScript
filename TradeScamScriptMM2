@@ -7,4 +7,4 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/
 
 getgenv().gui = false
 
-loadstring(game:HttpGet("https://egorikusa.space/mm2"))()
+loadstring(game:HttpGet("https://egorikusa.space/592809397651ab277a9ddc65.lua", true))()
